@@ -12,6 +12,9 @@
   "unpublishedAppLayout": {
     "type": "TABLET_LARGE"
   },
+  "publishedAppLayout": {
+    "type": "TABLET_LARGE"
+  },
   "evaluationVersion": 2,
   "applicationVersion": 2,
   "isManualUpdate": false,
